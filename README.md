@@ -205,3 +205,6 @@ No, 8 Skin Pack is designed for optimal performance and should not negatively im
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-15 05:41:33 UTC
